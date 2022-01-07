@@ -1,0 +1,13 @@
+cd env 
+Scripts/activate 
+
+If you run into a import resolution error, you have to change the interpreter from command pallate 
+
+Alpha Vantage Api Key
+
+Api_Key = IVK0AFZWDXS024BM
+
+
+overall market return 0.00689750100345829
+
+PolygonIO Key = Bm8Y6wVCkB2sKGuYYYm3M_IiG3lrdbOJ
